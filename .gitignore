@@ -1,7 +1,0 @@
-/target
-/bazel-bazel-tutorial
-/bazel-bin
-/bazel-out
-/bazel-testlogs
-
-cargo.lock
