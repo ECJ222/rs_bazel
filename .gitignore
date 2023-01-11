@@ -4,4 +4,4 @@
 /bazel-out
 /bazel-testlogs
 
-cargo.lock
+Cargo.lock
